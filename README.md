@@ -1,2 +1,6 @@
 # New-RTS-Project
-Small casual project between friends. Initial prototype for future projects and place for experimentation.
+Mood: Small casual project between friends. 
+Premise: Initial prototype for future projects and place for experimentation.
+Game Concept: RTS and FPS amalgamate.
+
+
